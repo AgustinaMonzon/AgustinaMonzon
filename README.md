@@ -9,7 +9,7 @@
 </div> 
 <h3> 👩‍💻 Sobre mí : </h3>
 
-- 🔭 Actualmente estoy trabajando en [ Mc Burger ](https://test-deploy-topaz-nine.vercel.app/)
+- 🔭  E-Commerce [ Mc Burger ](https://test-deploy-topaz-nine.vercel.app/) 🍔
 
 - 💬 Pregúntame sobre **reactJS, redux, expressJS, nodeJS**
 
