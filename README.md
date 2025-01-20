@@ -13,7 +13,7 @@
 
 - 💬 Pregúntame sobre **reactJS, redux, expressJS, nodeJS**
 
-- 🌱 Actualmente estoy aprendiendo **| TypeScript |**
+- 🌱 Actualmente estoy aprendiendo **| PHP |**
 
 - 📚  Amo leer.
 
